@@ -1,14 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import TodoList from './TodoList';
 import reportWebVitals from './reportWebVitals';
 
+var destination = document.querySelector("#container");
+
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+  <div>
+    <TodoList />
+  </div>,
+  destination
 );
 
 // If you want to start measuring performance in your app, pass a function

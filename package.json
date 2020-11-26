@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^12.1.10",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-flip-move": "^3.0.4",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
@@ -34,5 +35,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "A Simple React To-Do App",
+  "main": "index.js",
+  "repository": "https://github.com/JayaneshTG/To-Do-List-React.git",
+  "author": "JayaneshTG",
+  "license": "MIT"
 }
