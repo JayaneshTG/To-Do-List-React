@@ -1,3 +1,6 @@
+# Screenshot
+https://user-images.githubusercontent.com/33464442/100368832-155b5980-302a-11eb-82df-a845487a66ad.png
+
 # To-Do-List-React
 A Simple React To-Do App
 # Getting Started with Create React App
