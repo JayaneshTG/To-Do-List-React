@@ -1,6 +1,5 @@
 # Screenshot
-![image]
-(https://user-images.githubusercontent.com/33464442/100368832-155b5980-302a-11eb-82df-a845487a66ad.png)
+![Screenshot (425)](https://user-images.githubusercontent.com/33464442/100369019-5bb0b880-302a-11eb-8cec-f1b4af2b6a0f.png)
 
 # To-Do-List-React
 A Simple React To-Do App
